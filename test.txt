@@ -1,0 +1,6 @@
+Access_Web_Data/
+BalanceApp/
+Capstone/
+Course_1/
+Data_Structure/
+bs4/
